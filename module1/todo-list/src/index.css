@@ -1,0 +1,8 @@
+.main-header {
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  font-size: 2rem;
+}
